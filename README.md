@@ -15,7 +15,7 @@ $ source flask-app/bin/activate
 ### Installing requirements
 
 ```bash
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ### Setting Flask app environment variable
@@ -23,13 +23,13 @@ pip install -r requirements.txt
 Before we run the application we must tell Flask how to import it
 
 ```bash
-export FLASK_APP=microblog.py
+$ export FLASK_APP=microblog.py
 ```
 
 ### How to run it
 
 ```bash
-flask run
+$ flask run
 ```
 
 </br>
