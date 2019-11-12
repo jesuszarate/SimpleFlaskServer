@@ -23,7 +23,7 @@ $ pip install -r requirements.txt
 Before we run the application we must tell Flask how to import it
 
 ```bash
-$ export FLASK_APP=microblog.py
+$ export FLASK_APP=SimpleFlaskServer.py
 ```
 
 ### How to run it
@@ -31,6 +31,11 @@ $ export FLASK_APP=microblog.py
 ```bash
 $ flask run
 ```
+
+### The app will be served at:
+
+http://127.0.0.1:5000/
+
 
 </br>
 
