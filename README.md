@@ -1,6 +1,8 @@
 # SimpleFlaskServer
 
-This application uses python 3, you can find download the installer from the official website <https://www.python.org/downloads/>
+This application uses python 3.7.3, you can find download the installer from the official website <https://www.python.org/downloads/>
+
+Note: Other versions might not work
 
 
 ## **How to get started**
